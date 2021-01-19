@@ -1,0 +1,24 @@
+{
+  "name": "app-random-words",
+  "version": "1.0.0",
+  "description": "Test app mostly for development purposes",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panelx/app-random-words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panelx/app-random-words/issues"
+  },
+  "homepage": "https://github.com/panelx/app-random-words#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.21",
+    "typescript": "^4.1.3"
+  }
+}
